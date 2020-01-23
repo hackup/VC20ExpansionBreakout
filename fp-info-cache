@@ -1,4 +1,4 @@
-16334929631922484
+16336489194932915
 Battery
 BatteryHolder_Bulgin_BX0036_1xC
 Bulgin Battery Holder, BX0036, Battery Type C (https://www.bulgin.com/products/pub/media/bulgin/data/Battery_holders.pdf)
@@ -2162,6 +2162,13 @@ SMD 8540
 0
 4
 4
+C64-Exp-Port
+C64-Cart-NoSilkS
+
+
+0
+46
+44
 Calibration_Scale
 Gauge_10mm_Type1_CopperTop
 Gauge, Massstab, 10mm, CopperTop, Type 1,
@@ -45269,7 +45276,7 @@ C64-Cart-NoSilkS
 48
 44
 Hackup_Commodore
-C64-Cart-Socket
+C64-Cart-Socket-Vertical
 
 
 0
@@ -45298,8 +45305,8 @@ C64-User-Port-Female
 24
 Hackup_Commodore
 VC20-Cart
-
-
+Male board edge connector that fits the expansion port of the Commodore VIC-20 computer.
+VIC-20, VC-20, Commodore, cartridge
 0
 44
 44
